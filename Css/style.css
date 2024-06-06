@@ -1,0 +1,52 @@
+body{
+    background-color: #F7ECDE;
+}
+h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 500;
+    font-size: 50px;
+    color: rgb(53, 46, 40);
+
+    width: 265px;
+    margin: auto;
+}
+h3{
+    font-family: "Righteous", cursive;
+    font-weight: 500;
+    font-size: 25px;
+    color: rgb(33, 37, 41);
+    background-image: linear-gradient(to right, #3FA55B, #B2AC49);
+    background-clip:text;
+    color: transparent;
+}
+.form{
+    border: 1px dashed;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 10px;
+}
+.form .form-label{
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(33, 37, 41);
+}
+.icon-1{
+    color: #3FA55B;
+    font-size: 25px;
+}
+.icon-2{
+    color: #B2AC49;
+    font-size: 25px;
+}
+.Submit{
+    background-color: #d55634;
+    width: 160px;
+    border: none;
+}
+.static{
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(33, 37, 41);
+}
